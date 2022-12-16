@@ -5,3 +5,18 @@ html {
 body {
   text-align:center;
 }
+
+#product {
+  display: inline-block;
+  border-style: solid;
+  border-color: grey;
+  border-width: 2px;
+  padding: 50px;
+  margin: 10px;
+}
+
+.form{
+  border-style: double;
+  border-color: grey;
+  margin: 100px;
+}

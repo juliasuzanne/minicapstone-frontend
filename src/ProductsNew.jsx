@@ -6,7 +6,7 @@ export function ProductsNew(props) {
   };
 
   return (
-    <div id="newproduct">
+    <div className="form" id="newproduct">
       <form onSubmit={handleSubmit}>
         <h1>Add Product</h1>
         <div>
